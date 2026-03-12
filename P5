@@ -35,6 +35,9 @@ internal class A {
         println("Number is: $number")
     }
 }
+fun main(){
+val obj = A()
+obj.display()
 
 
 4. Protected Modifier
